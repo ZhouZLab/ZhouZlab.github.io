@@ -19,7 +19,7 @@
   group: resources
 
 - name: Open Positions
-  link: "/gratitude"
+  link: "/open-positions"
   group: open positions
 
 - name: Contact
