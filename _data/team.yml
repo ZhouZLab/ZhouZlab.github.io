@@ -1,0 +1,66 @@
+#- name: Lucy Benjamin
+#  image: /static/img/members/Benjamin.jpg
+#  # altimage: /static/img/members/Benjamin_pb.jpg
+#  position: Research Administrative Assistant
+#  email: lucy.benjamin (at) jax.org
+#  description: "Lucy graduated from Oxford University and MIT with degrees in Georgraphy and Real Estate. Before coming to JAX, \
+#  Lucy was a chartered surveyor in the UK and has since set up several businesses in the US including a small granola \
+#  manufacturing company. Now, as a Research Administrative Assistant in the Tewhey lab, Lucy works doing a variety of administrative \
+#  jobs for Ryan and the lab group. For fun, lucy loves to cook, bike ride, play duplicate bridge and garden, although she does not \
+#  have much spare time."
+
+#- name: Daniel Berenzy
+#  image: /static/img/members/Daniel.jpg
+#  altimage: /static/img/members/Daniel_alt.jpg
+#  position: Research Asssitant I
+#  email: daniel.berenzy (at) jax.org
+#  description: "Daniel graduated from Florida Gulf Coast University (FGCU) with a degree in Biotechnology, while working with \
+#  Dr. Takashi Ueda in the school’s Biotechnology lab. Upon graduating from FGCU, Daniel immediately joined the Tewhey Lab as a \
+#  Research Assistant and concurrently enrolled in the Professional Science Masters (PSM) program in Bioinformatics at the \
+#  University of Maine. As a Research Assistant in the Tewhey Lab, Daniel contributes to several different projects in both the \
+#  “wet” and “dry” lab but his expertise is in Biotechnology methods. In his free time, Daniel studies for a Master’s degree but \
+#  is also an avid Cyclist, Climber, Kayaker and all-around outdoorsy type. "
+
+- name: Zhengjie Zhou
+  image: /static/img/members/headshots/IMG_1418.JPG
+  altimage: /static/img/members/alt/zhou.jpg
+  position: Principal Investigator
+  email: zhengjie.zhou@temple.edu
+  orcid: 0000-0001-8329-6086
+  description: "Dr. Zhengjie Zhou is an Assistant Professor in the Center for inflammation & Lung Research (CILR) at the Lewis Katz School of Medicine \
+  at Temple University, with expertise in nanomedicine, cell biology, and translational medicine. His research focuses on developing advanced delivery platforms to modulate cell-specific signaling pathways involved in inflammation and disease, \
+  particularly in the lung and vasculature. He has contributed to innovative strategies for endothelial-drived cardiovascular and lung injury treatments, \
+  and explored the therapeutic potential of various delivery systems. Zhengjie’s broader interests lie in applyings interdisciplinary technologies to address \
+  critical challenges in precision medicine and inflammatory lung diseases. \
+
+  Zhengjie completed his postdoctoral work at University of Chicago in 2025 and then started his independent faculty job at Temple University. \
+  He is the recipient of 2023 NIH Pathway to Independence Award. "
+
+- name: Xinlin Huang
+  image: /static/img/members/headshots/huang.jpg
+  altimage: /static/img/members/alt/huang.jpg
+  position: Research Assistant
+  email: hxl0631@gmail.com
+  description: "Xinlin is a research assistant with a strong interest in molecular biology, biotechnology, and translational medicine. \
+  She supports ongoing projects focused on understanding disease mechanisms and developing novel therapeutic strategies, contributing expertise \
+  in experimental design, data analysis, and laboratory techniques. Her work plays a key role in advancing studies at the intersection of \
+  nanomedicine and lung biology, particularly in areas involving targeted drug delivery and cellular signaling pathways. Xinlin is passionate \
+  about applying scientific discovery to improve human health and is committed to collaborative, interdisciplinary research. Outside the laboratory, \
+  Xinlin is an accomplished cellist. She was awarded the Gold Prize in a distinguished cello performance competition in Shanghai and has served as \
+  a featured soloist in concert performances. Her musical achievements exemplify the same dedication and discipline she brings to her scientific pursuits."
+
+
+#- name: Luke Parsley
+#  image: /static/img/members/Luke.jpg
+#  altimage: /static/img/members/Luke_alt.jpg
+#  position: Graduate Student
+#  email: luke.parsley (at) jax.org
+#  description: "Luke graduated from Rollins College with a degree in Biochemistry/Molecular Biology. During undergraduate, \
+#  he conducted research in both the laboratories of Dr. Jurrien Dean studying germ granule trafficking in developing oocytes, \
+#  and Dr. Kasandra Riley profiling ncRNA expression of S. epidermis in stress response. As a graduate student in the Tewhey lab, \
+#  he employs Massively Parallel Reporter Assays (MPRA) to create enhancer profiles for disease-associated loci. In his free time, \
+#  he is an avid runner that enjoys Star Trek, hiking, and Chinese food."
+
+
+
+ 
