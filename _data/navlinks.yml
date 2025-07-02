@@ -11,7 +11,7 @@
   group: publications
 
 - name: Team
-  link: "/team"
+  link: "/members"
   group: members
 
 - name: Resources
