@@ -12,7 +12,7 @@
 
 - name: Team
   link: "/team"
-  group: team
+  group: members
 
 - name: Resources
   link: "/resources"
