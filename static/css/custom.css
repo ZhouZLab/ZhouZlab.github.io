@@ -163,8 +163,8 @@ body {
 }
 /* Specific targeting for the config.yml lab name */
 a.navbar-brand[href="/"] {
-    font-size: 1.2rem !important;
-    font-weight: 500 !important;
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
     margin-right: auto !important; /* Pushes everything else to the right */
     padding-left: 0 !important;   /* Removes any default left padding */
     text-align: left !important;  /* Explicit left alignment */
