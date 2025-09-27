@@ -1,4 +1,3 @@
-
 @media (min-width: 992px) {
    .collapse {
        display: none !important;
@@ -24,7 +23,7 @@
 .chart {
   position: relative;
   width: 100%;
-  height: 500px
+  height: 500px;
 }
 
 .smalltxt {
@@ -52,80 +51,6 @@
     border-right: 8px solid #002D72;
 }
 
-
-/*
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-
-/*
-.navbar-default {
-  background-color: #052049;
-  border-color: #668a75;
-}
-
-.navbar-default .navbar-brand {
-  font-family: "Lucida Bright", Georgia, serif;
-
-  color: #f6f6f6;
-}
-
-.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  color: #fdfdfd;
-}
-.navbar-default .navbar-text {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-nav > li > a {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #fdfdfd;
-}
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  color: #fdfdfd;
-  background-color: #668a75;
-}
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #fdfdfd;
-  background-color: #668a75;
-}
-.navbar-default .navbar-toggle {
-  border-color: #668a75;
-}
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #668a75;
-}
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: #f6f6f6;
-}
-.navbar-default .navbar-collapse,
-.navbar-default .navbar-form {
-  border-color: #f6f6f6;
-}
-.navbar-default .navbar-link {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-link:hover {
-  color: #fdfdfd;
-}
-
-
-@media (max-width: 767px) {
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #f6f6f6;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #fdfdfd;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #fdfdfd;
-    background-color: #668a75;
-  }
-}
-*/
-
 /* Force consistent navbar across all pages */
 .navbar {
     margin-bottom: 0 !important;
@@ -140,77 +65,59 @@ body {
 
 /* Home page carousel adjustment */
 .home-page .carousel-item img {
-    height: 600px; /* Keep but isolate to home */
+    height: 600px;
 }
 
 /* Navbar Title Size Adjustment */
 .navbar-brand {
-    font-size: 1.5rem !important; /* Increased from 1rem */
+    font-size: 1.5rem !important;
     white-space: nowrap !important;
 }
 
 /* Mobile adjustment */
 @media (max-width: 767px) {
     .navbar-brand {
-        font-size: 1.1rem !important; /* Increased from 0.9rem */
+        font-size: 1.1rem !important;
     }
 }
 
-}
-/* Specific targeting for the config.yml lab name */
-a.navbar-brand[href="/"] {
-    font-size: 1.8rem !important;
+/* Specific targeting for Zhou Lab name */
+.project-name {
+    font-size: 2.5rem !important;
     font-weight: 700 !important;
-    margin-right: auto !important; /* Pushes everything else to the right */
-    padding-left: 0 !important;   /* Removes any default left padding */
-    text-align: left !important;  /* Explicit left alignment */
-    justify-content: flex-start !important; /* For flexbox containers */
 }
 
-/* Mobile adjustment */
+/* Mobile adjustment for project name */
 @media (max-width: 767px) {
-    a.navbar-brand[href="/"] {
-        font-size: 1.4rem !important;
+    .project-name {
+        font-size: 1.8rem !important;
         font-weight: 700 !important;
     }
 }
-    
-    /* Remove any conflicting styles */
-    .home-page .row {
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-    }
-}
 
-/* Home page mobile margins ONLY for text+sidebar */
+/* Home page mobile margins */
 @media (max-width: 767.98px) {
-    body.home-page .container > .row > .col-sm-8,  /* Text content */
-    body.home-page .container > .row > .col-sm-4 {  /* Sidebar */
+    body.home-page .container > .row > .col-sm-8,
+    body.home-page .container > .row > .col-sm-4 {
         padding-left: 5px !important;
         padding-right: 5px !important;
     }
 }
 
-/* Add to custom.css */
 body.home-page .full-width-container {
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
 
 :root {
-  font-size: 17px; /* Base size (default is 16px) */
+  font-size: 17px;
 }
 
 body {
-  font-size: 1rem; /* Will now use 17px */
-  line-height: 1.6; /* Better readability */
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
-/* Scale headings proportionally */
 h1 { font-size: 2.5rem; }
 h2 { font-size: 2rem; }
 h3 { font-size: 1.75rem; }
-
-
-
-
