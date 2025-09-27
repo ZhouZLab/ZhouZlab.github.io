@@ -158,8 +158,8 @@ body {
 
 /* Specific targeting for the config.yml lab name, remove below started /* will work goog 7:52 4/29*/
 /* a.navbar-brand[href="/"] {  /* Targets only the lab name link */
-    font-size: 1.2rem !important; /* Adjust this value as needed */
-    font-weight: 500;*/
+    font-size: 1.8rem !important; /* Adjust this value as needed */
+    font-weight: 700;*/
 }
 /* Specific targeting for the config.yml lab name */
 a.navbar-brand[href="/"] {
