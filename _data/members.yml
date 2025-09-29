@@ -49,6 +49,26 @@
   Xinlin is an accomplished cellist. She was awarded the Gold Prize in a distinguished cello performance competition in Shanghai and has served as \
   a featured soloist in concert performances. Her musical achievements exemplify the same dedication and discipline she brings to her scientific pursuits."
 
+- name: Lana Gorden
+  image: /static/img/members/headshots/Lana.jpg
+  altimage: /static/img/members/alt/Lana2.jpg
+  position: Rotating Graduate student 
+  email: lana.gore@temple.edu
+  description: "Lana is a rotating graduate student with a passion for translational medicine. Her long-term research goal is to focus on therapeutic \
+  options for patients with overlooked disorders, such as lung inflammation. She plans to utilize her diverse research background to bring unique \
+  perspectives that strengthen problem-solving. Her lab strengths include experimental design and cell culture techniques."
+
+- name: Anton L McFadden
+  image: /static/img/members/headshots/xx.jpg
+  altimage: /static/img/members/alt/xx.jpg
+  position: Rotating Graduate student 
+  email: anton.mcfadden@temple.edu
+  description: "My name is Anton McFadden. I am a recent graduate of Cheyney University—the nation’s first HBCU. There I had received the Bond-Hill \
+  scholarship, earning my bachelor’s degree in biology. Prior to, I had participated in many internships to hone my skills as a researcher at \
+  institutions, such as The Wistar Institute for Cancer Research, University of Pennsylvania’s Singh Center for Nanotechnology, Children’s \
+  Hospital of Philadelphia, and, ultimately, Temple University, where I am currently in my first year as a PhD student studying cancer biology. \
+  In the near future, I want to interface nanoparticle technology with DNA repair mechanisms to better modulate tumor suppression and promote \
+  more effective immune responses for recalcitrant cancers, such as pancreatic, lung, and breast cancer."
 
 #- name: Luke Parsley
 #  image: /static/img/members/Luke.jpg
