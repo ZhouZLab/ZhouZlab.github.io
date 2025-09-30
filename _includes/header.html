@@ -60,17 +60,16 @@
 
   <body>
 
-    <!-- Static navbar -->
+        <!-- Static navbar -->
     <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #000000">
-    <a class="navbar-brand" href="https://zhouzlab.github.io" style="margin-right: 5px !important; margin-left: 20px !important;">
-        <img src="/static/img/zhoulogo9.png" style="height: 50px;">
-    </a>
-    <a class="navbar-brand" href="/" style="color: white; max-width: 60%;">
-        <span style='font-size: 1.3rem;'>Zhou Lab</span>
-    </a>
-    <!--     <a href="https://zhouzlab.github.io"><img class="inline-block navb-icon" src="/static/img/zhoulogo8.png"></a> -->
-    <!--         <a href="https://gsbse.umaine.edu"><img class="inline-block navb-icon" src="/static/img/MAINE_crest_outline_4c.png"></a> -->
-    <!--        <a href="https://medicine.tufts.edu"><img class="inline-block navb-icon" src="/static/img/Tufts_univ_white.png"></a> -->
+      <div class="d-flex align-items-center" style="margin-left: 20px;">
+        <a class="navbar-brand p-0" href="https://zhouzlab.github.io" style="margin-right: 5px !important;">
+            <img src="/static/img/zhoulogo9.png" style="height: 50px;">
+        </a>
+        <a class="navbar-brand p-0" href="/" style="color: white;">
+            <span style='font-size: 1.3rem;'>Zhou Lab</span>
+        </a>
+      </div>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -83,10 +82,9 @@
                 <li class="nav-item"><a class="nav-link" href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
               {% endif %}
             {% endfor %}
-
           </ul>
         </div><!--/.nav-collapse -->
-      </nav>
+    </nav>
 
     <div class="container">
 
