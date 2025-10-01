@@ -26,8 +26,10 @@ google_site_verification: "google3f8e48e801db6af3"
 ### What's new with us?
 
 {% for post in site.posts limit:3 %}
-_{{ post.date | date: "%-m-%-d-%Y" }}_ &nbsp; &nbsp; **{{ post.title }}** <br>
-{{ post.content | strip_html | truncatewords: 30 }}
+_{{ post.date | date: "%-m-%-d-%Y" }}_ &nbsp; &nbsp; **[{{ post.title }}]({{ post.url }})** <br>
+{{ post.content | truncatewords: 30 }}
+[Read more]({{ post.url }})
+<br><br>
 {% endfor %}
 
 
