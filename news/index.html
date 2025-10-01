@@ -10,7 +10,7 @@ group: news
   <hr>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="author"><a href="/team">{{post.author}}</a></span><br>
+    <span class="author"><a href="{% link team/index.html %}">{{post.author}}</a></span><br>
     <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
   </p>
   <div class="content">
