@@ -24,12 +24,11 @@ google_site_verification: "google3f8e48e801db6af3"
 ---
 
 ### What's new with us?
-_8-1-2025_ &nbsp; &nbsp; **We opened in 2025** <br>
-We are thrilled to announce the official launch of the Zhou Lab! 
 
-_3-28-2025_ &nbsp; &nbsp; **Our work highlighted in Science News** <br>
-Our work was interviewed by a Science reportor at ACS Spring 2025 and the pre-printed research on precision nanomedicine targeting vascular complications and inflammatory lungs was highlighted in [<strong>*Science News* </strong>](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)! 
-
+{% for post in site.posts limit:3 %}
+_{{ post.date | date: "%-m-%-d-%Y" }}_ &nbsp; &nbsp; **{{ post.title }}** <br>
+{{ post.content | strip_html | truncatewords: 30 }}
+{% endfor %}
 
 
 
