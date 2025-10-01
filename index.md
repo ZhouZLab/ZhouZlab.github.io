@@ -27,7 +27,7 @@ google_site_verification: "google3f8e48e801db6af3"
 
 {% for post in site.posts limit:3 %}
 _{{ post.date | date: "%-m-%-d-%Y" }}_ &nbsp; &nbsp; **{{ post.title }}** <br>
-{{ post.content | strip_html | truncatewords: 30 }}
+{{ post.content | replace: '<a', '[[a' | replace: '</a>', '[[/a]]' | strip_html | replace: '[[a', '<a' | replace: '[[/a]]', '</a>' | truncatewords: 30 }}
 {% endfor %}
 
 
