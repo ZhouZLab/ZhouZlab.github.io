@@ -1,5 +1,5 @@
 ---
-title: Let's warmly welcome our newest post-doc, Pratiksha, to join our lab! 
+title: Let's warmly welcome our newest post-doc, Pratiksha, to our lab! 
 author: Zhengjie Zhou
 layout: post
 group: news
