@@ -1,5 +1,5 @@
 ---
-title: Zhengjie Zhou | Temple University
+title: Zhengjie Zhou Lab 
 layout: home-with-sidebar  # Changed this line
 group: home
 description: "Research lab led by Dr. Zhengjie Zhou at Temple University. Focus areas: nanomedicine, vascular biology, ARDS, lung injury, pulmonary diseases."
