@@ -1,5 +1,5 @@
 ---
-title: We are thrilled to welcome our newest post-doc, Junfang, to our lab!
+title: We are excited to announce that Anton will be the first PhD student to join our lab!
 author: Zhengjie Zhou
 layout: post
 group: news
