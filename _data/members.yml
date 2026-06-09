@@ -81,6 +81,16 @@
   In the near future, I want to interface nanoparticle technology with DNA repair mechanisms to better modulate tumor suppression and promote \
   more effective immune responses for recalcitrant cancers, such as pancreatic, lung, and breast cancer."
 
+  - name: Tianyuan Zhang
+  image: /static/img/members/headshots/tianyuan1.jpg
+  altimage: /static/img/members/alt/tianyuan2.jpg
+  position: Summer interns
+  email: tianyuan.zhang@temple.edu
+  description: "I am an undergraduate student in Biomedical Engineering at the National University of Singapore. \
+  My research interests lie at the intersection of biomedical research, clinical data analysis, and AI-assisted healthcare innovation. \
+  My previous experience includes literature based cancer research, community health assessment, and AI applications in psychological \
+  councelling. In the lab, I hope to further develop my understanding of nanoparticles, drug delivery mechanisms, and pulmonary disease. "
+
 #- name: Luke Parsley
 #  image: /static/img/members/Luke.jpg
 #  altimage: /static/img/members/Luke_alt.jpg
