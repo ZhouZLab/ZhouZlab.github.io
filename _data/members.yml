@@ -60,15 +60,6 @@
   and translational therapeutic development. Junfang has extensive expertise in molecular biology, cell biology, immunology, CRISPR/Cas9 gene editing, RNA-seq analysis, \
   drug screening, and animal models. Outside the laboratory, Junfang enjoys reading books, exploring different foods and beverages, and spending time appreciating natural scenery."
 
-- name: Lana Gorden
-  image: /static/img/members/headshots/Lana1.jpg
-  altimage: /static/img/members/alt/Lana2.JPG
-  position: Rotating Graduate student  
-  email: lana.gore@temple.edu
-  description: "Lana is a rotating graduate student with a passion for translational medicine. Her long-term research goal is to focus on therapeutic \
-  options for patients with overlooked disorders, such as lung inflammation. She plans to utilize her diverse research background to bring unique \
-  perspectives that strengthen problem-solving. Her lab strengths include experimental design and cell culture techniques."
-
 - name: Anton L McFadden
   image: /static/img/members/headshots/anton1.jpg
   altimage: /static/img/members/alt/anton2.jpg
@@ -80,16 +71,6 @@
   Hospital of Philadelphia, and, ultimately, Temple University, where I am currently in my first year as a PhD student studying cancer biology. \
   In the near future, I want to interface nanoparticle technology with DNA repair mechanisms to better modulate tumor suppression and promote \
   more effective immune responses for recalcitrant cancers, such as pancreatic, lung, and breast cancer."
-
-- name: Tianyuan Zhang
-  image: /static/img/members/headshots/tianyuan1.jpg
-  altimage: /static/img/members/alt/tianyuan2.jpg
-  position: Summer Intern
-  email: tianyuan.zhang@temple.edu
-  description: "Tianyuan is an second-year undergraduate student in Biomedical Engineering at the National University of Singapore. \
-  Her research interests lie at the intersection of biomedical research, clinical data analysis, and AI-assisted healthcare innovation. \
-  Her previous experience includes literature based cancer research, community health assessment, and AI applications in psychological \
-  councelling. In the lab, She hope to further develop the understanding of nanoparticles, drug delivery mechanisms, and pulmonary disease. "
 
 #- name: Luke Parsley
 #  image: /static/img/members/Luke.jpg
