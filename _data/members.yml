@@ -72,6 +72,20 @@
   In the near future, I want to interface nanoparticle technology with DNA repair mechanisms to better modulate tumor suppression and promote \
   more effective immune responses for recalcitrant cancers, such as pancreatic, lung, and breast cancer."
 
+- name: Lauren Tran
+  image: /static/img/members/headshots/L1.jpg
+  altimage: /static/img/members/alt/L2.jpg
+  position: Undergraduate student
+  email: lauren.tran0005@temple.edu
+  description: "Lauren is an undergraduate research assistant from Temple University pursuing a Bachelor of Science in Biology \
+  with a strong interest in biomedical research and its applications in human health. Her previous research experience in aquatic \
+  microbial ecology provided a foundation in microscopy, cell counting, data analysis, and scientific documentation. Lauren’s current \
+  research interests include cell biology, nanomedicine, drug delivery systems, and the molecular mechanisms underlying inflammation \
+  and disease. She is eager to expand her technical and analytical skills while contributing to innovative research focused on developing \
+  therapeutic approaches to improve human health. Outside of the laboratory, Lauren enjoys spending time outdoors, traveling, exploring \
+  new cuisines, and playing musical instruments."
+
+  
 #- name: Luke Parsley
 #  image: /static/img/members/Luke.jpg
 #  altimage: /static/img/members/Luke_alt.jpg
